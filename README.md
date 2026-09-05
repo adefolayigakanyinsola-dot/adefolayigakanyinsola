@@ -179,7 +179,7 @@ I also love to join different communities involved in building innovations that 
 
 
 
-🚀** PROJECTS & HANDS-ON LEARNING**
+🚀 PROJECTS & HANDS-ON LEARNING
 
  🤖**AUTONOMOUS FIRE-FIGHTING ROBOT** : An autonomous mobile robot using Arduino microcomtroller,flame sensors,flame sensors and actuators.It is programmed to navigate space,detect flames sources and initiate active extinguishing.
  
