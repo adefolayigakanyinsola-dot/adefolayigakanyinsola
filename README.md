@@ -5,7 +5,7 @@
  Hi there , I'm **Adekanyinsola Adefolayiga**! 🔌👩‍🎓
 
 
-I'm an aspiring *Embedded Systems/Firmware Engineer* and an *Electrical and Electronics Engineering* student at the Unuversity of Lagos 🏫
+I'm an aspiring *Embedded Systems/Firmware Engineer* and an *Electrical and Electronics Engineering* student at the University of Lagos 🏫
 
 
 I'm very interested in bridging the gap between hardware and software 🧑‍💻. My core technical focus is building automated devices using Arduino,Esp32 and Raspberrry pi.
