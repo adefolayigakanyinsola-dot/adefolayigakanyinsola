@@ -23,10 +23,6 @@ I also love to join different communities involved in building innovations that 
 
 
 
-*SKILLS* :
-
-|
-Analog Circuit Designs and Schematics Layout| Firmware and Software Engineering | Soldering and Assembly
 
 
 
@@ -38,11 +34,26 @@ Analog Circuit Designs and Schematics Layout| Firmware and Software Engineering 
 
 
 
+***SKILLS*** :
+
+
+|Analog Circuit Designs and Schematics Layout| Firmware and Software Engineering | Soldering and Assembly|
 
 
 
 
-### 🛠️ Tools
+
+
+
+
+
+
+
+
+
+
+
+### 🛠️** Tools**
 
 | Category | Technologies |
 | :--- | :--- |
@@ -64,7 +75,27 @@ Analog Circuit Designs and Schematics Layout| Firmware and Software Engineering 
 
 
 
-🚀 PROJECTS & HANDS-ON LEARNING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚀** PROJECTS & HANDS-ON LEARNING**
 
  🤖**AUTONOMOUS FIRE-FIGHTING ROBOT** : An autonomous mobile robot using Arduino microcomtroller,flame sensors,flame sensors and actuators.It is programmed to navigate space,detect flames sources and initiate active extinguishing.
  
@@ -79,6 +110,16 @@ Analog Circuit Designs and Schematics Layout| Firmware and Software Engineering 
   
 
 - *Touch Enabled Light* :  A circuit that utilizes human skin resistance to bridge a control path, switching an LED on with a simple touch.
+
+
+
+
+
+
+
+
+
+
 
   
 
