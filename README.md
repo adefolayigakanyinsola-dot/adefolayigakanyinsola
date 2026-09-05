@@ -1,2 +1,51 @@
 # adefolayigakanyinsola
 My Personal Repository
+
+
+# Hi there , I'm **Adekanyinsola Adefolayiga**! 🔌👩‍🎓
+
+
+# I'm an aspiring *Embedded Systems/Firmware Engineer* and an *Electrical and Electronics Engineering* student at the Unuversity of Lagos 🏫
+
+
+# I'm very interested in bridging the gap between hardware and software 🧑‍💻.  #My core technical focus is building automated devices using Arduino,Esp32 and Raspberrry pi.
+
+# I also love to join different communities involved in building innovations that could develop the society 📍
+
+
+*SKILLS* :
+Analog Circuit Designs and Schematics Layout| Firmware and Software Engineering | Soldering and Assembly
+
+
+
+### 🛠️ Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Programming Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Hardware & IoT** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E30F21?style=flat-square&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) |
+| **Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Schematics Design** |![KiCad](https://img.shields.io/badge/KiCad-#314CB0?style=flat-square&logo=KiCad&logoColor=white) |
+
+
+
+### 🚀 PROJECTS & HANDS-ON LEARNING
+
+ 🤖**AUTONOMOUS FIRE-FIGHTING ROBOT** : An autonomous mobile robot using Arduino microcomtroller,flame sensors,flame sensors and actuators.It is programmed to navigate space,detect flames sources and initiate active extinguishing.
+ 
+
+ 🧨**ANALOG CIRCUITS PROTOTYPES**: *-* *Railroad Crossing Lights* : An astable multivibrator timing circuit to alternate dual signaling LEDs, creating a rhythmic blinking pattern without relying on a microcontroller.
+ 
+                                   *-* ***Cookie Jar Alarm* : A light-sensitive security trigger using a Light Dependent Resistor (LDR) and a transistor switch circuit to actuate an audible buzzer when a lid is opened.
+
+                                   *-* *Touch Enabled Light* : A circuit that utilizes human skin resistance to bridge a control path, switching an LED on with a simple touch.
+
+
+
+
+📫 **Connect with Me**
+💼 *LinkedIn*: linkedin.com/in/kanyinsola-adefolayiga                                                                    
+📧 *Email*: adefolayigakanyinsola@gmail.com
+
+
+
