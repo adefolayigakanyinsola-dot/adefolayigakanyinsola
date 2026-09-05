@@ -16,8 +16,26 @@ I also love to join different communities involved in building innovations that 
 
 
 
+
+
+
+
+
+
+
 *SKILLS* :
+
+|
 Analog Circuit Designs and Schematics Layout| Firmware and Software Engineering | Soldering and Assembly
+
+
+
+
+
+
+
+
+
 
 
 
@@ -38,16 +56,31 @@ Analog Circuit Designs and Schematics Layout| Firmware and Software Engineering 
 
 
 
+
+
+
+
+
+
+
+
 🚀 PROJECTS & HANDS-ON LEARNING
 
  🤖**AUTONOMOUS FIRE-FIGHTING ROBOT** : An autonomous mobile robot using Arduino microcomtroller,flame sensors,flame sensors and actuators.It is programmed to navigate space,detect flames sources and initiate active extinguishing.
  
 
- 🧨**ANALOG CIRCUITS PROTOTYPES**: *-* *Railroad Crossing Lights* : An astable multivibrator timing circuit to alternate dual signaling LEDs, creating a rhythmic blinking pattern without relying on a microcontroller.
- 
-- Cookie Jar Alarm* : A light-sensitive security trigger using a Light Dependent Resistor (LDR) and a transistor switch circuit to actuate an audible buzzer when a lid is opened.
+ 🧨**ANALOG CIRCUITS PROTOTYPES**:
 
--Touch Enabled Light* : A circuit that utilizes human skin resistance to bridge a control path, switching an LED on with a simple touch.
+ 
+- *Railroad Crossing Lights* :  An astable multivibrator timing circuit to alternate dual signaling LEDs, creating a rhythmic blinking pattern without relying on a microcontroller.
+  
+ 
+- *Cookie Jar Alarm* :  A light-sensitive security trigger using a Light Dependent Resistor (LDR) and a transistor switch circuit to actuate an audible buzzer when a lid is opened.
+  
+
+- *Touch Enabled Light* :  A circuit that utilizes human skin resistance to bridge a control path, switching an LED on with a simple touch.
+
+  
 
 
 
@@ -58,8 +91,10 @@ Analog Circuit Designs and Schematics Layout| Firmware and Software Engineering 
 
 
 📫 **Connect with Me**
-💼 *LinkedIn*: linkedin.com/in/kanyinsola-adefolayiga                                                                    
-📧 *Email*: adefolayigakanyinsola@gmail.com
+
+
+💼 *LinkedIn* :https://www.linkedin.com/in/kanyinsola-adefolayiga                                                                    
+📧 *Email* : adefolayigakanyinsola@gmail.com
 
 
 
