@@ -53,7 +53,26 @@ I also love to join different communities involved in building innovations that 
 
 
 
-### 🛠️** Tools**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 🛠️ Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -61,6 +80,71 @@ I also love to join different communities involved in building innovations that 
 | **Hardware & IoT** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E30F21?style=flat-square&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) |
 | **Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | **Schematics Design** |![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=KiCad&logoColor=white) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -110,6 +194,76 @@ I also love to join different communities involved in building innovations that 
   
 
 - *Touch Enabled Light* :  A circuit that utilizes human skin resistance to bridge a control path, switching an LED on with a simple touch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
